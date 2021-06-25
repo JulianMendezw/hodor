@@ -33,3 +33,6 @@ Many online contests make gathering votes a part of their process for choosing w
 ## Language used:
 
 Python 3
+
+# Author
+Julian Mendez
